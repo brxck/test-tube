@@ -1,0 +1,13 @@
+{
+  "name": "test-tube",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vitest",
+    "test": "vitest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "vitest": "^0.9.3"
+  }
+}
